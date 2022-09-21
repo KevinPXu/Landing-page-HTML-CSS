@@ -1,0 +1,34 @@
+.title {
+  text-align: center;
+  display: inline;
+}
+
+body {
+  font-family: "Lucida Console", cursive, monospace;
+  background-color: beige;
+  color: navy;
+}
+
+.header {
+  position: sticky;
+  align-items: left;
+  display: inline;
+  background-color: lightgoldenrodyellow;
+}
+
+.header section ul li {
+  display: inline-block;
+  margin: 40px;
+}
+img {
+  border: 30px solid;
+  border-color: goldenrod;
+}
+
+.element {
+  display: block;
+}
+
+#contact {
+  margin: auto;
+}
